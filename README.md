@@ -1,6 +1,6 @@
 # nextjs-tutorial
 
-## Use
+## Usage
 Development
 ```
 npm install
